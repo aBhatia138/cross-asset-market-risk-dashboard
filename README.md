@@ -1,3 +1,5 @@
+# Author - Amoghaya Bhatia 
+
 # Cross-Asset Market Risk Dashboard
 
 A Streamlit-based financial analytics application that retrieves historical market data from LSEG Workspace, calculates quantitative risk metrics, and provides natural-language financial analysis through MarketMate, a Groq-powered assistant.
